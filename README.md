@@ -37,7 +37,8 @@ The contract allows:
 
 ## Foundry Deployment Addresses
 
-**CELO Testnet** (Chain ID: 4202)  
+**CELO Testnet** (Chain ID: 4202)
+`0xEC9A30f56dce5A5A304d68c9ffcAcB0F4D18114F`
 
 
 
