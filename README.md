@@ -1,5 +1,5 @@
 # Multi-Framework Smart Contract Deployment  
-### Hardhat + Foundry → CELO Tnetest 
+### Hardhat + Foundry → CELO Testnet 
 
 This project demonstrates deploying the same smart contract using **two Ethereum development frameworks**:
 
@@ -15,7 +15,7 @@ Both frameworks deploy to:
 
 # Owner Contract - HardHat & Foundry
 
-A simple ownership management smart contract deployed on **CELO Sepolia** using both **Hardhat** and **Foundry** development frameworks.
+A simple ownership management smart contract deployed on **CELO Testnet** using both **Hardhat** and **Foundry** development frameworks.
 
 The contract allows:
 - Setting the deployer as the initial owner
