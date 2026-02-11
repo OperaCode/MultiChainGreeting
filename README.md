@@ -28,7 +28,8 @@ The contract allows:
 
 ## HardHat Deployment Addresses
 
-**CELO Testnet** (Chain ID: 4202)  
+**CELO Testnet** (Chain ID: 11142220)
+`0xEC213c0E7FA50B972609949CDAa35cf62e586d91`
 
 
 
